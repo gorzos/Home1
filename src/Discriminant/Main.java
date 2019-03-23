@@ -27,10 +27,10 @@ public class Main {
             else if (D == 0) {
                 double x;
                 x = -b / (2 * a);
-                System.out.println("Уравнение имеет единственный корень: x = " + x);
+                System.out.println("Уравнение имеет корень: x = " + x);
             }
             else {
-                System.out.println("Уравнение не имеет действительных корней!");
+                System.out.println("Уравнение не имеет корней!");
             }
 
 
